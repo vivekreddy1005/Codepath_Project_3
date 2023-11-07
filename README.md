@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 https://submissions.us-east-1.linodeobjects.com/and102/67-JejL1.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
